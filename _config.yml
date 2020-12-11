@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
-language: en
-timezone: ''
+title: JorinEducation
+subtitle: '始终如一的英语教学品牌'
+description: '乔琳教育是立足于中小学教育的英语教育品牌，本网站是乔琳教育的官方博客网站。'
+keywords: Education, JorinEdu, 乔琳教育, 语法, 英语学习
+author: John Woo
+language: zh-cn, cn, en
+timezone: '+8'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
